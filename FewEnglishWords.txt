@@ -1,0 +1,17 @@
+a
+ab
+abc
+abcd
+abcde
+abcdef
+abcdefg
+A
+Ab
+Abc
+Abcde
+Abcdef
+a-bcde
+abcde_
+Ab-cde
+aaaaa
+abbba
